@@ -1,6 +1,6 @@
 Hi, I’m @puspnevas
 I’m enthusisatic in Data Enginner
-I’m currently learning Full-stack (Python, Django, Mysql) 
+I’m currently learning Full-stack (MERN) 
 
 
 <!---
